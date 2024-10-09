@@ -20,6 +20,6 @@ jobs:
             uses: streetsidesoftware/cspell-action@v2
             with:
               files: "*.tex"
-              chech_dot_files: false
+              check_dot_files: false
               strict: true
               incremental_files_only: false
